@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "Advent of Code 2020",
+  "main": "src/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Burane/Advent-of-Code-2020.git"
+  },
+  "author": "Antoine Kerbiriou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Burane/Advent-of-Code-2020/issues"
+  },
+  "homepage": "https://github.com/Burane/Advent-of-Code-2020#readme",
+  "dependencies": {
+  }
+}
